@@ -38,6 +38,8 @@ Tham khaỏ các tính chất của modulo tại :
   
   Nó nhanh hơn rất nhiều so với tính trực tiếp  ```py  pow(31, pow(31, 2813771283), 384302) ```.
   
+  Hãy chạy thử đoạn code bên dưới xem nó mất mấy giây ?
+  
 ## Code mẫu
   ```py
   #a = pow(31, pow(31, 2813771283), 384302) = ?
